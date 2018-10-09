@@ -18,7 +18,10 @@ I started with this approach, soon I realised it was going to be a bit verbose f
 # Styling
 • Sass or Material/Bootstrap 
 
-  
+#Testing
+• Mocha & Chai( as our assertion library)
+• Confirm this testing method agaist AngularJS app
+• 
 
 
 

@@ -1,0 +1,26 @@
+{
+  "name": "bike-test-hack",
+  "version": "1.0.0",
+  "description": "A simple Angular app, Testing with Mocha & Chai",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codrey/Bike-s-Testing.git"
+  },
+  "author": "Corey Winter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codrey/Bike-s-Testing/issues"
+  },
+  "homepage": "https://github.com/Codrey/Bike-s-Testing#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
