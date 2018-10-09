@@ -18,11 +18,18 @@ I started with this approach, soon I realised it was going to be a bit verbose f
 # Styling
 • Sass or Material/Bootstrap 
 
-#Testing
+# Tests
+
+# To note...
+• Mocha didn't seem well suited to work with Angular's modules and container structor *** INVESTIGATE!(once bike app tsting is complete)
+• Jasmine and Karma seem the best/optimal AngularJS testing technology 
+
+# Mocha Testing
 • Mocha & Chai( as our assertion library)
 • Confirm this testing method agaist AngularJS app
-• 
+*** Mocha testing setup unsuccessful
 
+# Jasmine and Karma
 
 
 
