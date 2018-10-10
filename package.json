@@ -1,13 +1,13 @@
 {
-  "name": "bike-test-hack",
+  "name": "bike-site-hack",
   "version": "1.0.0",
-  "description": "A simple Angular app, Testing with Mocha & Chai",
+  "description": "A simple Angular app to practice testing",
   "main": "app.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": ""
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/Codrey/Bike-s-Testing#readme",
   "devDependencies": {
-    
+    "jasmine": "^3.2.0",
+    "jasmine-core": "^3.2.1",
+    "karma": "^3.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.2"
   }
 }

@@ -10,7 +10,7 @@
         $http.get(datasource).then( response => {
 
             $scope.products = response.data.items;
-
+            
             //  attributes list to filter our data • scalable 
             $scope.attributesToFilter = ["class"];
 
